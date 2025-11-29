@@ -1,4 +1,6 @@
 # minikube
+source
+minikube cheat sheet
 
 Install kubectl
 Install minikube
