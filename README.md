@@ -18,3 +18,4 @@ kubectl get pods -o wide
  kubectl get deploy
 
   kubectl get rs
+kube edit svc <name svc>
